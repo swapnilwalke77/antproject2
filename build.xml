@@ -1,0 +1,7 @@
+<?xml version="1.0">
+<project name ="sample xml program" default="info">
+<target name="info">
+<echo> hello this is swapnil walke world </echo>
+</target>
+</project>
+
